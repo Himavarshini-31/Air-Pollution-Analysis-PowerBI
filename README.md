@@ -54,6 +54,9 @@ Dataset: https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
 3. If prompted, update the CSV data source path.
 4. Explore the dashboard using the interactive filters.
 
+## Screenshots
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/aabb8fb1-662e-4e7e-af64-65e6a450a1c5" />
+
 ## 👩‍💻 Project Outcome
 Developed an interactive environmental analytics dashboard that transforms raw air quality data into meaningful visual insights, supporting better understanding of pollution patterns across Indian cities.
 
